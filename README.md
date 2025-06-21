@@ -16,7 +16,6 @@
 - [Instagram](https://www.instagram.com/juliieet.tt/)
 
 [![Python](https://img.shields.io/badge/Python-3670A0?logo=python&logoColor=white&style=flat-square)](https://www.python.org/) 
-[![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white&style=flat-square)](https://flask.palletsprojects.com/) 
 [![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white&style=flat-square)](https://www.oracle.com/java/) 
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=flat-square)](https://developer.mozilla.org/docs/Web/HTML) 
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=flat-square)](https://developer.mozilla.org/docs/Web/CSS) 
