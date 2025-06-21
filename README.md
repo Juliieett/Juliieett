@@ -1,16 +1,19 @@
-## Hi there 👋
+## 👋 Hi, I’m Juli Chaphidze
+🎓 Computer Science student at Kutaisi International University  
+📘 Minor in Management at KIU  
+🛠️ Working on various projects in Python, Java, React, etc.
 
-<!--
-**Juliieett/Juliieett** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💡 About Me
+- 🐍 Python applications development (Django)
+- 🌐 Frontend: HTML, CSS, JavaScript, React
+- ⚙️ Backend: SQL databases
+- 📊 Data analysis & visualization (Power BI)
+- ☕ Learning/building in Java, Python
+- 💬 Languages: Georgian, English (C1)
 
-Here are some ideas to get you started:
+### 📫 Connect with me
+- [LinkedIn](https://www.linkedin.com/in/juli-chapidze-8a4aa1255/)  
+- [Instagram](https://www.instagram.com/juliieet.tt/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔧 Technologies & Tools
+Python • Java • HTML5 • CSS3 • JavaScript • React • SQL • Power BI • OCaml
