@@ -6,7 +6,7 @@
 ### 💡 About Me
 - 🐍 Python applications development (Django)
 - 🌐 Frontend: HTML, CSS, JavaScript, React
-- ⚙️ Backend: SQL databases
+- ⚙️ Backend: SQL databases, node.js, java, python
 - 📊 Data analysis & visualization (Power BI)
 - ☕ Learning/building in Java, Python
 - 💬 Languages: Georgian, English (C1)
