@@ -1,7 +1,7 @@
 ## 👋 Hi, I’m Juli Chaphidze
 🎓 Computer Science student at Kutaisi International University  
 📘 Minor in Management at KIU  
-🛠️ Working on various projects in Python, Java, React, etc.
+🛠️ Working on various projects in Python, Java, Javascript, React, etc.
 
 ### 💡 About Me
 - 🐍 Python applications development (Django)
