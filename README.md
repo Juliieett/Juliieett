@@ -9,7 +9,7 @@
 - ⚙️ Backend: SQL databases, node.js, java, python
 - 📊 Data analysis & visualization (Power BI)
 - ☕ Learning/building in Java, Python
-- 💬 Languages: Georgian, English (C1)
+
 
 ### 📫 Connect with me
 - [LinkedIn](https://www.linkedin.com/in/juli-chapidze-8a4aa1255/)  
